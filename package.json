@@ -1,0 +1,16 @@
+{
+  "name": "react-simple-twitter",
+  "version": "1.0.0",
+  "description": "Implementing React using Flux and Browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "browserify"
+  ],
+  "author": "Edmund Situmorang",
+  "license": "MIT"
+}
