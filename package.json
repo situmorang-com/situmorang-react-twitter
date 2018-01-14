@@ -12,5 +12,11 @@
     "browserify"
   ],
   "author": "Edmund Situmorang",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.0"
+  }
 }
